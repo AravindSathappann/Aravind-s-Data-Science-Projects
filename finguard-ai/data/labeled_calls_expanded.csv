@@ -1,0 +1,401 @@
+transcript,label
+Customer: I need help because I want to split the transfer to avoid the documentation step. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Compliance Risk
+"Customer: Hi, I am frustrated, but I still do not want to provide the requested documents. I want to understand what the next step should be. Agent: Let me review that with you.",Compliance Risk
+Customer: I need help because I want to use someone else's identification for this request. I have the account open in front of me. Agent: Let me review that with you.,Compliance Risk
+"Customer: Hi, I keep getting transferred without a solution. I have the account open in front of me. Agent: Let me review that with you.",Escalation Risk
+Customer: I'm calling because I was not in the city where this purchase happened. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Fraud Risk
+"Customer: Hello, I have not completed identity verification but want the restriction removed. I have the account open in front of me. Agent: I can check the account details.",Compliance Risk
+"Customer: I need help because I understand the fee and verification rules, but the promised correction never happened. I would appreciate some guidance. Agent: Let me review that with you.",Escalation Risk
+"Customer: I'm calling because I understand why the transfer was held, but support promised a review days ago. I would appreciate some guidance. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hi, I keep getting transferred without a solution. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Escalation Risk
+Customer: I'm calling because I want to know the normal refund timeline. I have the account open in front of me. Agent: I can help route this request correctly.,Normal Support
+"Customer: I need help because I am frustrated, but I still do not want to provide the requested documents. I have the account open in front of me. Agent: I can check the account details.",Compliance Risk
+"Customer: I'm calling because I am frustrated, but I still do not want to provide the requested documents. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hello, I noticed a service charge but I am not saying it was unauthorized. I would appreciate some guidance. Agent: I can help route this request correctly.",Normal Support
+Customer: I'm calling because I never placed this online order. I noticed this while checking the app. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hello, I want the source-of-funds requirement waived. I noticed this while checking the app. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hello, I want to know when my debit card will arrive. I would appreciate some guidance. Agent: I can help route this request correctly.",Normal Support
+Customer: I'm calling because I did not authorize this transfer. I noticed this while checking the app. Agent: I can help route this request correctly.,Fraud Risk
+"Customer: Hi, I want an explanation of this monthly service fee. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Normal Support
+"Customer: Hello, I want to split the transfer to avoid the documentation step. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I need help because I have not completed identity verification but want the restriction removed. I have the account open in front of me. Agent: I can help route this request correctly.,Compliance Risk
+Customer: I need help because these small charges do not belong to me. I want to understand what the next step should be. Agent: I can check the account details.,Fraud Risk
+"Customer: Hello, these small charges do not belong to me. I just want to make sure this is handled correctly. Agent: I can check the account details.",Fraud Risk
+Customer: I need help because I want an explanation of this monthly service fee. I have the account open in front of me. Agent: Let me determine the appropriate next step.,Normal Support
+"Customer: Hello, I want to send this wire without the required documents. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Compliance Risk
+"Customer: Hi, I am moving money for another person and do not want to explain it. I want to understand what the next step should be. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hi, I want to know my transfer limit. I have the account open in front of me. Agent: I can help route this request correctly.",Normal Support
+"Customer: Hi, I do not recognize this card purchase. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, this cash withdrawal was not mine. I have the account open in front of me. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I need help because I want to update my paperless statement settings. I have the account open in front of me. Agent: I can check the account details.,Normal Support
+"Customer: Hi, I want to bypass the identity verification. I want to understand what the next step should be. Agent: I can check the account details.",Compliance Risk
+Customer: I'm calling because I do not recognize this card purchase. I want to understand what the next step should be. Agent: I can help route this request correctly.,Fraud Risk
+"Customer: I'm calling because the refund is pending, but I only want to know the normal processing time. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Normal Support
+Customer: I'm calling because I want to bypass the identity verification. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: I need help because I recognize the merchant name, but I did not make this particular purchase. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.",Fraud Risk
+Customer: I'm calling because someone used my card without my permission. I want to understand what the next step should be. Agent: I can check the account details.,Fraud Risk
+Customer: I'm calling because I need help updating my mailing address. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Normal Support
+Customer: I need help because I was promised a callback but nobody contacted me. I want to understand what the next step should be. Agent: I can check the account details.,Escalation Risk
+Customer: I'm calling because the case has been open for weeks despite repeated follow-ups. I just want to make sure this is handled correctly. Agent: I can check the account details.,Escalation Risk
+"Customer: Hi, I did not authorize this transfer. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Fraud Risk
+Customer: I'm calling because I received a replacement card after an old fraud case and only need help activating it. I noticed this while checking the app. Agent: I can check the account details.,Normal Support
+Customer: I need help because someone used my card without my permission. I have the account open in front of me. Agent: Let me review that with you.,Fraud Risk
+"Customer: I'm calling because I completed all verification requirements, but now there is a withdrawal I did not make. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, I am not disputing a new transaction; the existing case has gone nowhere. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Escalation Risk
+Customer: I need help because I want to know my transfer limit. I would appreciate some guidance. Agent: I can check the account details.,Normal Support
+Customer: I need help because the case has been open for weeks despite repeated follow-ups. I noticed this while checking the app. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hello, I want to split the transfer to avoid the documentation step. I have the account open in front of me. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hi, I was told this would already be fixed. I have the account open in front of me. Agent: I can check the account details.",Escalation Risk
+"Customer: Hi, this cash withdrawal was not mine. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Fraud Risk
+Customer: I'm calling because I need help updating my mailing address. I would appreciate some guidance. Agent: I can check the account details.,Normal Support
+"Customer: Hello, I am not asking to bypass policy or report new fraud; I need escalation after repeated failed support attempts. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hi, I talked with a supervisor about another issue before, but today I only need the normal refund timeline. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I need help because the case has been open for weeks despite repeated follow-ups. I want to understand what the next step should be. Agent: I can check the account details.,Escalation Risk
+"Customer: Hi, I was told this would already be fixed. I noticed this while checking the app. Agent: I can check the account details.",Escalation Risk
+"Customer: I need help because I know the recipient, but I did not initiate this particular transfer. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I'm calling because I am not disputing a charge; I want an exception to the verification rule. I have the account open in front of me. Agent: Let me review that with you.,Compliance Risk
+"Customer: Hello, I want to update my paperless statement settings. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Normal Support
+Customer: I'm calling because I want to use someone else's identification for this request. I just want to make sure this is handled correctly. Agent: I can check the account details.,Compliance Risk
+"Customer: Hello, the earlier fee question was normal, but this new charge is not mine. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I need help because the app asked me to verify my identity and I just need directions for doing it. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Normal Support
+"Customer: Hi, I had an unauthorized charge and completed verification, but I have now called four times and the case remains unresolved. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hi, I completed verification two weeks ago and the account is still restricted after three calls. I noticed this while checking the app. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hi, I did not send money to this recipient. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Fraud Risk
+"Customer: Hi, I want to download an older statement. I want to understand what the next step should be. Agent: I can help route this request correctly.",Normal Support
+"Customer: Hello, I do not recognize this card purchase. I noticed this while checking the app. Agent: Let me review that with you.",Fraud Risk
+Customer: I need help because I did not authorize this transfer. I noticed this while checking the app. Agent: Let me review that with you.,Fraud Risk
+Customer: I'm calling because I want to know my transfer limit. I just want to make sure this is handled correctly. Agent: I can check the account details.,Normal Support
+Customer: I need help because I keep getting transferred without a solution. I would appreciate some guidance. Agent: Let me review that with you.,Escalation Risk
+"Customer: Hi, I want the source-of-funds requirement waived. I would appreciate some guidance. Agent: Let me review that with you.",Compliance Risk
+Customer: I'm calling because I spoke with a manager yesterday and then another purchase appeared that was not mine. I want to understand what the next step should be. Agent: I can help route this request correctly.,Fraud Risk
+Customer: I need help because I want to use someone else's identification for this request. I have the account open in front of me. Agent: I can help route this request correctly.,Compliance Risk
+Customer: I'm calling because I am asking about verification requirements before deciding whether to make a transfer. I want to understand what the next step should be. Agent: Let me review that with you.,Normal Support
+"Customer: I need help because nothing appears stolen, but I want to send money for someone else without providing more information. I noticed this while checking the app. Agent: I can check the account details.",Compliance Risk
+Customer: I'm calling because someone used my card without my permission. I want to understand what the next step should be. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hello, I want to update my paperless statement settings. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I need help because I do not want to provide the requested ID. I have the account open in front of me. Agent: I can check the account details.,Compliance Risk
+Customer: I need help because I want to download an older statement. I would appreciate some guidance. Agent: I can check the account details.,Normal Support
+"Customer: Hello, I need a supervisor because previous agents did not fix this. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I'm calling because I recognize this charge and only want to know why it is still pending. I noticed this while checking the app. Agent: I can help route this request correctly.,Normal Support
+"Customer: Hi, I did not authorize this transfer. I have the account open in front of me. Agent: I can check the account details.",Fraud Risk
+Customer: I need help because I want to use someone else's identification for this request. I noticed this while checking the app. Agent: I can check the account details.,Compliance Risk
+Customer: I need help because I submitted the documents twice and the case is still pending. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Escalation Risk
+"Customer: Hi, I never placed this online order. I want to understand what the next step should be. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I need help because I have not completed identity verification but want the restriction removed. I noticed this while checking the app. Agent: I can check the account details.,Compliance Risk
+"Customer: Hello, I submitted the documents twice and the case is still pending. I noticed this while checking the app. Agent: I can check the account details.",Escalation Risk
+Customer: I need help because I was told this would already be fixed. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: I'm calling because I had a card issue before, but today I am asking to bypass the source-of-funds review. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: I'm calling because nothing appears stolen, but I want to send money for someone else without providing more information. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Compliance Risk
+Customer: I need help because I submitted the documents twice and the case is still pending. I have the account open in front of me. Agent: I can check the account details.,Escalation Risk
+Customer: I'm calling because this is my fourth call and the issue is still unresolved. I have the account open in front of me. Agent: Let me review that with you.,Escalation Risk
+"Customer: Hello, I want to send this wire without the required documents. I would appreciate some guidance. Agent: Let me review that with you.",Compliance Risk
+Customer: I'm calling because these small charges do not belong to me. I have the account open in front of me. Agent: I can help route this request correctly.,Fraud Risk
+Customer: I need help because I know the transfer is mine but do not want to provide source-of-funds information. I would appreciate some guidance. Agent: Let me review that with you.,Compliance Risk
+"Customer: I'm calling because I had a card issue before, but today I am asking to bypass the source-of-funds review. I noticed this while checking the app. Agent: I can help route this request correctly.",Compliance Risk
+Customer: I'm calling because I do not recognize this card purchase. I have the account open in front of me. Agent: I can check the account details.,Fraud Risk
+Customer: I'm calling because I need someone senior to take over this unresolved case. I have the account open in front of me. Agent: I can check the account details.,Escalation Risk
+Customer: I need help because I was not in the city where this purchase happened. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hello, I did not send money to this recipient. I want to understand what the next step should be. Agent: Let me review that with you.",Fraud Risk
+"Customer: Hello, I completed the verification rule already, but the repeated delay needs escalation. I want to understand what the next step should be. Agent: Let me review that with you.",Escalation Risk
+Customer: I'm calling because I never placed this online order. I want to understand what the next step should be. Agent: I can help route this request correctly.,Fraud Risk
+"Customer: Hi, I want to know when my debit card will arrive. I would appreciate some guidance. Agent: I can check the account details.",Normal Support
+"Customer: Hello, I am frustrated, but the main problem is a payment I never approved. I want to understand what the next step should be. Agent: I can check the account details.",Fraud Risk
+"Customer: Hi, I want the verification hold removed without completing the review. I want to understand what the next step should be. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hello, the unauthorized charge was already disputed, but nobody has updated the case after several calls. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I'm calling because I do not want to provide the requested ID. I have the account open in front of me. Agent: I can check the account details.,Compliance Risk
+Customer: I need help because I keep getting transferred without a solution. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Escalation Risk
+Customer: I need help because I need a supervisor because previous agents did not fix this. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hi, I need someone senior to take over this unresolved case. I noticed this while checking the app. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hi, the refund is pending, but I only want to know the normal processing time. I would appreciate some guidance. Agent: I can check the account details.",Normal Support
+"Customer: Hi, I called before about another issue, but today I found a transaction I did not make. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I'm calling because I am not disputing a new transaction; the existing case has gone nowhere. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: Hello, I need help updating my mailing address. I would appreciate some guidance. Agent: Let me review that with you.",Normal Support
+Customer: I'm calling because I need someone senior to take over this unresolved case. I would appreciate some guidance. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hello, I completed all verification requirements, but now there is a withdrawal I did not make. I just want to make sure this is handled correctly. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, I was told this would already be fixed. I have the account open in front of me. Agent: I can check the account details.",Escalation Risk
+Customer: I'm calling because I need someone senior to take over this unresolved case. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Escalation Risk
+Customer: I need help because I want an explanation of this monthly service fee. I want to understand what the next step should be. Agent: I can check the account details.,Normal Support
+"Customer: I'm calling because I recognize the merchant name, but I did not make this particular purchase. I noticed this while checking the app. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hello, this is my fourth call and the issue is still unresolved. I would appreciate some guidance. Agent: I can check the account details.",Escalation Risk
+"Customer: Hello, I want to know when my debit card will arrive. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I'm calling because this is my fourth call and the issue is still unresolved. I would appreciate some guidance. Agent: I can check the account details.,Escalation Risk
+Customer: I'm calling because I did not authorize this transfer. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Fraud Risk
+"Customer: Hello, I never placed this online order. I have the account open in front of me. Agent: Let me review that with you.",Fraud Risk
+"Customer: Hello, I still have my card, yet this ATM withdrawal was not made by me. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Fraud Risk
+"Customer: Hi, I never placed this online order. I want to understand what the next step should be. Agent: Let me review that with you.",Fraud Risk
+"Customer: Hello, I want to use someone else's identification for this request. I want to understand what the next step should be. Agent: I can check the account details.",Compliance Risk
+"Customer: Hello, I did not authorize this transfer. I noticed this while checking the app. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: I need help because I am frustrated, but I still do not want to provide the requested documents. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I need help because I want to split the transfer to avoid the documentation step. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Compliance Risk
+Customer: I'm calling because I need help updating my mailing address. I would appreciate some guidance. Agent: Let me review that with you.,Normal Support
+Customer: I need help because I am moving money for another person and do not want to explain it. I would appreciate some guidance. Agent: I can check the account details.,Compliance Risk
+"Customer: Hello, I did not authorize this transfer. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, I did not send money to this recipient. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+Customer: I'm calling because I want to send this wire without the required documents. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: I need help because I am frustrated, but the main problem is a payment I never approved. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, I submitted the documents twice and the case is still pending. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I'm calling because this is my fourth call and the issue is still unresolved. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: I'm calling because I am frustrated, but the main problem is a payment I never approved. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I'm calling because I keep getting transferred without a solution. I noticed this while checking the app. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hello, I do not recognize this card purchase. I have the account open in front of me. Agent: Let me review that with you.",Fraud Risk
+Customer: I'm calling because this cash withdrawal was not mine. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Fraud Risk
+Customer: I need help because I need to reset my online banking password. I want to understand what the next step should be. Agent: I can check the account details.,Normal Support
+Customer: I'm calling because I am asking about verification requirements before deciding whether to make a transfer. I noticed this while checking the app. Agent: I can check the account details.,Normal Support
+"Customer: Hello, I am not disputing a new transaction; the existing case has gone nowhere. I have the account open in front of me. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hello, I want to bypass the identity verification. I would appreciate some guidance. Agent: I can help route this request correctly.",Compliance Risk
+Customer: I'm calling because I was promised a callback but nobody contacted me. I noticed this while checking the app. Agent: Let me review that with you.,Escalation Risk
+Customer: I need help because this is my fourth call and the issue is still unresolved. I have the account open in front of me. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: Hi, these small charges do not belong to me. I have the account open in front of me. Agent: Let me review that with you.",Fraud Risk
+"Customer: I'm calling because I recognize the transaction, but the promised correction still has not happened. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hi, I am moving money for another person and do not want to explain it. I have the account open in front of me. Agent: Let me review that with you.",Compliance Risk
+Customer: I need help because I did not send money to this recipient. I noticed this while checking the app. Agent: Let me review that with you.,Fraud Risk
+Customer: I'm calling because I do not recognize this card purchase. I noticed this while checking the app. Agent: I can help route this request correctly.,Fraud Risk
+Customer: I'm calling because I was told this would already be fixed. I noticed this while checking the app. Agent: Let me review that with you.,Escalation Risk
+"Customer: Hello, I completed verification and a transfer earlier this week and only want to know when my card arrives. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Normal Support
+"Customer: Hello, I submitted the documents twice and the case is still pending. I would appreciate some guidance. Agent: I can check the account details.",Escalation Risk
+Customer: I need help because I did not authorize this transfer. I noticed this while checking the app. Agent: I can check the account details.,Fraud Risk
+"Customer: Hi, I had a card issue before, but today I am asking to bypass the source-of-funds review. I want to understand what the next step should be. Agent: I can check the account details.",Compliance Risk
+"Customer: Hi, I want to download an older statement. I want to understand what the next step should be. Agent: Let me review that with you.",Normal Support
+"Customer: I'm calling because I received the replacement card, but after several calls the account is still locked. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hi, I want to use someone else's identification for this request. I want to understand what the next step should be. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: I'm calling because I recognize the merchant name, but I did not make this particular purchase. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+Customer: I'm calling because I want to use someone else's identification for this request. I would appreciate some guidance. Agent: I can help route this request correctly.,Compliance Risk
+"Customer: I'm calling because I completed all verification requirements, but now there is a withdrawal I did not make. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hi, I have called several times, but I still do not want to submit the required transfer documents. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Compliance Risk
+"Customer: Hi, I want to use someone else's identification for this request. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Compliance Risk
+Customer: I'm calling because I was told this would already be fixed. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hi, the case has been open for weeks despite repeated follow-ups. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hello, I was not in the city where this purchase happened. I noticed this while checking the app. Agent: I can check the account details.",Fraud Risk
+Customer: I'm calling because I need a supervisor because previous agents did not fix this. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Escalation Risk
+"Customer: Hello, I was promised a callback but nobody contacted me. I noticed this while checking the app. Agent: I can help route this request correctly.",Escalation Risk
+Customer: I'm calling because I want to update my paperless statement settings. I have the account open in front of me. Agent: I can check the account details.,Normal Support
+"Customer: Hi, I have called several times, but I still do not want to submit the required transfer documents. I would appreciate some guidance. Agent: I can check the account details.",Compliance Risk
+"Customer: Hi, the case has been open for weeks despite repeated follow-ups. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hello, the app asked me to verify my identity and I just need directions for doing it. I noticed this while checking the app. Agent: I can check the account details.",Normal Support
+Customer: I need help because I want to send this wire without the required documents. I have the account open in front of me. Agent: I can help route this request correctly.,Compliance Risk
+"Customer: Hi, I do not recognize this card purchase. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Fraud Risk
+"Customer: Hello, I want the source-of-funds requirement waived. I have the account open in front of me. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hello, I want to update my paperless statement settings. I noticed this while checking the app. Agent: I can help route this request correctly.",Normal Support
+"Customer: Hi, I want to know the normal refund timeline. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I need help because I need help updating my mailing address. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Normal Support
+Customer: I need help because I want the source-of-funds requirement waived. I just want to make sure this is handled correctly. Agent: I can check the account details.,Compliance Risk
+"Customer: Hi, I keep getting transferred without a solution. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I need help because I do not recognize this card purchase. I noticed this while checking the app. Agent: Let me review that with you.,Fraud Risk
+"Customer: I'm calling because the unauthorized charge was already disputed, but nobody has updated the case after several calls. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I'm calling because I want to send this wire without the required documents. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hi, I need someone senior to take over this unresolved case. I would appreciate some guidance. Agent: I can check the account details.",Escalation Risk
+"Customer: Hi, I never placed this online order. I want to understand what the next step should be. Agent: I can check the account details.",Fraud Risk
+"Customer: Hi, I want to download an older statement. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I need help because I want to know when my debit card will arrive. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Normal Support
+Customer: I'm calling because I need to reset my online banking password. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Normal Support
+Customer: I'm calling because I want to know my transfer limit. I have the account open in front of me. Agent: Let me review that with you.,Normal Support
+"Customer: Hello, I want to split the transfer to avoid the documentation step. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Compliance Risk
+"Customer: Hi, I recognize the transaction, but the promised correction still has not happened. I noticed this while checking the app. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hi, I need a supervisor because previous agents did not fix this. I have the account open in front of me. Agent: I can check the account details.",Escalation Risk
+Customer: I'm calling because I do not want to provide the requested ID. I want to understand what the next step should be. Agent: I can check the account details.,Compliance Risk
+"Customer: Hello, I did not authorize this transfer. I have the account open in front of me. Agent: Let me review that with you.",Fraud Risk
+Customer: I need help because I want the verification hold removed without completing the review. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hi, I want to download an older statement. I have the account open in front of me. Agent: I can check the account details.",Normal Support
+Customer: I'm calling because these small charges do not belong to me. I want to understand what the next step should be. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hello, I am moving money for another person and do not want to explain it. I have the account open in front of me. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hi, I still have my card, yet this ATM withdrawal was not made by me. I noticed this while checking the app. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I'm calling because I need help updating my mailing address. I noticed this while checking the app. Agent: I can help route this request correctly.,Normal Support
+"Customer: Hi, I recognize all charges and do not need escalation; I only want to reset my password. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Normal Support
+"Customer: I'm calling because I recognize every transaction, but I want the wire released without uploading my ID. I want to understand what the next step should be. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hello, I was told this would already be fixed. I noticed this while checking the app. Agent: I can check the account details.",Escalation Risk
+"Customer: Hello, I am asking about verification requirements before deciding whether to make a transfer. I would appreciate some guidance. Agent: I can help route this request correctly.",Normal Support
+"Customer: Hello, this cash withdrawal was not mine. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I need help because I am not asking to bypass policy or report new fraud; I need escalation after repeated failed support attempts. I want to understand what the next step should be. Agent: Let me review that with you.,Escalation Risk
+"Customer: Hi, I want to understand the transfer limit before sending money to my own savings account. I want to understand what the next step should be. Agent: I can check the account details.",Normal Support
+Customer: I'm calling because this cash withdrawal was not mine. I would appreciate some guidance. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hello, I know the transfer is mine but do not want to provide source-of-funds information. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hello, I want to know the normal refund timeline. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Normal Support
+"Customer: Hi, I was promised a callback but nobody contacted me. I noticed this while checking the app. Agent: Let me review that with you.",Escalation Risk
+"Customer: I'm calling because I understand why the transfer was held, but support promised a review days ago. I want to understand what the next step should be. Agent: I can help route this request correctly.",Escalation Risk
+Customer: I need help because I want to update my paperless statement settings. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Normal Support
+"Customer: Hi, I want to send this wire without the required documents. I noticed this while checking the app. Agent: I can check the account details.",Compliance Risk
+Customer: I need help because I want to split the transfer to avoid the documentation step. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: I'm calling because I recognize the merchant name, but I did not make this particular purchase. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Fraud Risk
+"Customer: Hello, I need to reset my online banking password. I noticed this while checking the app. Agent: I can check the account details.",Normal Support
+"Customer: Hello, I am frustrated, but the main problem is a payment I never approved. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Fraud Risk
+"Customer: Hi, I was not in the city where this purchase happened. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hi, I received a replacement card after an old fraud case and only need help activating it. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Normal Support
+"Customer: Hi, I was told this would already be fixed. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hi, I submitted the documents twice and the case is still pending. I would appreciate some guidance. Agent: I can check the account details.",Escalation Risk
+"Customer: Hi, I understand why the transfer was held, but support promised a review days ago. I noticed this while checking the app. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hello, the app asked me to verify my identity and I just need directions for doing it. I just want to make sure this is handled correctly. Agent: I can check the account details.",Normal Support
+"Customer: Hello, I am moving money for another person and do not want to explain it. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I need help because I recognize the cash withdrawal and only want to know where the ATM was located. I have the account open in front of me. Agent: Let me review that with you.,Normal Support
+"Customer: I need help because I talked with a supervisor about another issue before, but today I only need the normal refund timeline. I would appreciate some guidance. Agent: I can check the account details.",Normal Support
+Customer: I need help because I want to bypass the identity verification. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hello, I want to update my paperless statement settings. I just want to make sure this is handled correctly. Agent: I can check the account details.",Normal Support
+"Customer: Hi, I have called several times, but I still do not want to submit the required transfer documents. I noticed this while checking the app. Agent: I can help route this request correctly.",Compliance Risk
+Customer: I'm calling because I want to download an older statement. I would appreciate some guidance. Agent: I can help route this request correctly.,Normal Support
+Customer: I need help because I want to split the transfer to avoid the documentation step. I have the account open in front of me. Agent: I can check the account details.,Compliance Risk
+"Customer: I'm calling because I called twice about verification before, but that was resolved; today I found a new charge I did not make. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Fraud Risk
+Customer: I need help because the case has been open for weeks despite repeated follow-ups. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Escalation Risk
+"Customer: I'm calling because I talked with a supervisor about another issue before, but today I only need the normal refund timeline. I would appreciate some guidance. Agent: Let me review that with you.",Normal Support
+"Customer: Hello, I recognize all charges and do not need escalation; I only want to reset my password. I noticed this while checking the app. Agent: I can help route this request correctly.",Normal Support
+Customer: I'm calling because I need to reset my online banking password. I noticed this while checking the app. Agent: I can check the account details.,Normal Support
+"Customer: Hi, I want to update my paperless statement settings. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Normal Support
+"Customer: Hi, I want to know when my debit card will arrive. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Normal Support
+Customer: I need help because I want the verification hold removed without completing the review. I just want to make sure this is handled correctly. Agent: I can check the account details.,Compliance Risk
+"Customer: Hello, I noticed a service charge but I am not saying it was unauthorized. I have the account open in front of me. Agent: I can check the account details.",Normal Support
+Customer: I'm calling because these small charges do not belong to me. I noticed this while checking the app. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hello, I need help updating my mailing address. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Normal Support
+"Customer: Hi, I want the source-of-funds requirement waived. I want to understand what the next step should be. Agent: I can check the account details.",Compliance Risk
+"Customer: Hi, I was promised a callback but nobody contacted me. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hello, I want to know the normal refund timeline. I have the account open in front of me. Agent: I can help route this request correctly.",Normal Support
+"Customer: Hello, I was not in the city where this purchase happened. I have the account open in front of me. Agent: Let me review that with you.",Fraud Risk
+Customer: I need help because I want to send this wire without the required documents. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Compliance Risk
+"Customer: Hello, I recognize every transaction, but I want the wire released without uploading my ID. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Compliance Risk
+Customer: I'm calling because I want the verification hold removed without completing the review. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hello, I was promised a callback but nobody contacted me. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hello, I recognize an old pending charge, but the new transaction beside it is not mine. I just want to make sure this is handled correctly. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, I want the verification hold removed without completing the review. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I'm calling because I did not authorize this transfer. I would appreciate some guidance. Agent: I can help route this request correctly.,Fraud Risk
+"Customer: I'm calling because I recognize an old pending charge, but the new transaction beside it is not mine. I would appreciate some guidance. Agent: Let me review that with you.",Fraud Risk
+Customer: I need help because I want to know my transfer limit. I noticed this while checking the app. Agent: I can check the account details.,Normal Support
+"Customer: I'm calling because I am frustrated, but the main problem is a payment I never approved. I want to understand what the next step should be. Agent: Let me review that with you.",Fraud Risk
+"Customer: Hi, I understand why the transfer was held, but support promised a review days ago. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hi, I submitted the documents twice and the case is still pending. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I need help because I want to split the transfer to avoid the documentation step. I would appreciate some guidance. Agent: I can help route this request correctly.,Compliance Risk
+"Customer: Hi, I need help updating my mailing address. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Normal Support
+Customer: I need help because I keep getting transferred without a solution. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: Hi, I want to send this wire without the required documents. I noticed this while checking the app. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hello, I want to split the transfer so I can avoid submitting the documentation. I want to understand what the next step should be. Agent: Let me review that with you.",Compliance Risk
+Customer: I'm calling because I recognize the cash withdrawal and only want to know where the ATM was located. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Normal Support
+Customer: I need help because I want to know when my debit card will arrive. I just want to make sure this is handled correctly. Agent: I can check the account details.,Normal Support
+"Customer: Hi, I never placed this online order. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hi, I still have my card, yet this ATM withdrawal was not made by me. I have the account open in front of me. Agent: I can check the account details.",Fraud Risk
+"Customer: Hello, I want to split the transfer to avoid the documentation step. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I need help because I need to reset my online banking password. I have the account open in front of me. Agent: I can check the account details.,Normal Support
+Customer: I'm calling because I completed verification two weeks ago and the account is still restricted after three calls. I noticed this while checking the app. Agent: I can check the account details.,Escalation Risk
+"Customer: Hi, I want the verification hold removed without completing the review. I have the account open in front of me. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hi, I noticed a service charge but I am not saying it was unauthorized. I have the account open in front of me. Agent: I can help route this request correctly.",Normal Support
+Customer: I need help because I want to send this wire without the required documents. I would appreciate some guidance. Agent: I can help route this request correctly.,Compliance Risk
+Customer: I'm calling because I want to send this wire without the required documents. I noticed this while checking the app. Agent: I can check the account details.,Compliance Risk
+Customer: I need help because I was not in the city where this purchase happened. I have the account open in front of me. Agent: I can help route this request correctly.,Fraud Risk
+Customer: I need help because these small charges do not belong to me. I want to understand what the next step should be. Agent: I can help route this request correctly.,Fraud Risk
+"Customer: I need help because I completed the verification rule already, but the repeated delay needs escalation. I want to understand what the next step should be. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hi, I want an explanation of this monthly service fee. I noticed this while checking the app. Agent: I can check the account details.",Normal Support
+"Customer: I need help because I had a fraud case last month and spoke with a manager, but it is resolved and today I only need to update my address. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Normal Support
+"Customer: Hi, I was promised a callback but nobody contacted me. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Escalation Risk
+"Customer: I need help because I am frustrated, but I still do not want to provide the requested documents. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Compliance Risk
+"Customer: Hello, I need help updating my mailing address. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I'm calling because I do not recognize this card purchase. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Fraud Risk
+Customer: I need help because I completed verification two weeks ago and the account is still restricted after three calls. I would appreciate some guidance. Agent: I can check the account details.,Escalation Risk
+Customer: I need help because someone used my card without my permission. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Fraud Risk
+"Customer: Hello, someone used my card without my permission. I want to understand what the next step should be. Agent: I can check the account details.",Fraud Risk
+Customer: I'm calling because I need a supervisor because previous agents did not fix this. I want to understand what the next step should be. Agent: I can help route this request correctly.,Escalation Risk
+Customer: I'm calling because I want to bypass the identity verification. I have the account open in front of me. Agent: Let me review that with you.,Compliance Risk
+"Customer: Hello, I recognize the transfer and submitted the documents, but I need a supervisor because nobody has acted. I just want to make sure this is handled correctly. Agent: I can check the account details.",Escalation Risk
+Customer: I'm calling because this is my fourth call and the issue is still unresolved. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Escalation Risk
+Customer: I'm calling because I want to split the transfer to avoid the documentation step. I would appreciate some guidance. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: I need help because I previously disputed a transaction, but that case is closed and I just want to download a statement. I have the account open in front of me. Agent: Let me review that with you.",Normal Support
+"Customer: I'm calling because I recognize an old pending charge, but the new transaction beside it is not mine. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I need help because I want to split the transfer to avoid the documentation step. I just want to make sure this is handled correctly. Agent: I can check the account details.,Compliance Risk
+Customer: I need help because I know the transfer is mine but do not want to provide source-of-funds information. I have the account open in front of me. Agent: Let me determine the appropriate next step.,Compliance Risk
+Customer: I need help because I want to know my transfer limit. I noticed this while checking the app. Agent: I can help route this request correctly.,Normal Support
+Customer: I'm calling because the case has been open for weeks despite repeated follow-ups. I have the account open in front of me. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hello, I need a supervisor because previous agents did not fix this. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: I need help because I received the replacement card, but after several calls the account is still locked. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: I need help because I completed verification already, but this transfer was never submitted by me. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Fraud Risk
+Customer: I need help because this cash withdrawal was not mine. I just want to make sure this is handled correctly. Agent: I can check the account details.,Fraud Risk
+Customer: I'm calling because I want to download an older statement. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Normal Support
+Customer: I'm calling because I do not want to provide the requested ID. I want to understand what the next step should be. Agent: Let me review that with you.,Compliance Risk
+Customer: I'm calling because I want an explanation of this monthly service fee. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Normal Support
+"Customer: I'm calling because I understand why the transfer was held, but support promised a review days ago. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Escalation Risk
+"Customer: Hi, I want to download an older statement. I would appreciate some guidance. Agent: I can help route this request correctly.",Normal Support
+Customer: I need help because this is my fourth call and the issue is still unresolved. I want to understand what the next step should be. Agent: I can help route this request correctly.,Escalation Risk
+Customer: I need help because I recognize this charge and only want to know why it is still pending. I want to understand what the next step should be. Agent: Let me review that with you.,Normal Support
+Customer: I'm calling because I was not in the city where this purchase happened. I have the account open in front of me. Agent: I can help route this request correctly.,Fraud Risk
+"Customer: Hello, I want an explanation of this monthly service fee. I would appreciate some guidance. Agent: I can help route this request correctly.",Normal Support
+Customer: I'm calling because I need help updating my mailing address. I have the account open in front of me. Agent: I can check the account details.,Normal Support
+Customer: I need help because I want the source-of-funds requirement waived. I have the account open in front of me. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hello, someone used my card without my permission. I noticed this while checking the app. Agent: I can check the account details.",Fraud Risk
+Customer: I'm calling because I do not want to provide the requested ID. I have the account open in front of me. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hello, I recognize the transaction, but the promised correction still has not happened. I have the account open in front of me. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: I need help because I talked with a supervisor about another issue before, but today I only need the normal refund timeline. I want to understand what the next step should be. Agent: Let me review that with you.",Normal Support
+"Customer: Hello, I want to bypass the identity verification. I noticed this while checking the app. Agent: I can help route this request correctly.",Compliance Risk
+Customer: I'm calling because I need help updating my mailing address. I would appreciate some guidance. Agent: I can help route this request correctly.,Normal Support
+"Customer: Hi, I do not recognize this card purchase. I noticed this while checking the app. Agent: I can check the account details.",Fraud Risk
+Customer: I'm calling because someone used my card without my permission. I have the account open in front of me. Agent: I can check the account details.,Fraud Risk
+"Customer: Hello, I spoke with a manager yesterday and then another purchase appeared that was not mine. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Fraud Risk
+"Customer: Hello, I am moving money for another person and do not want to explain it. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Compliance Risk
+"Customer: I'm calling because I had an unauthorized charge and completed verification, but I have now called four times and the case remains unresolved. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hi, I am not reporting fraud; I want the bank to skip verification while I am traveling. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Compliance Risk
+"Customer: Hello, this cash withdrawal was not mine. I noticed this while checking the app. Agent: Let me review that with you.",Fraud Risk
+"Customer: I'm calling because I understand why the transfer was held, but support promised a review days ago. I noticed this while checking the app. Agent: I can check the account details.",Escalation Risk
+Customer: I need help because I want to use someone else's identification for this request. I have the account open in front of me. Agent: I can check the account details.,Compliance Risk
+"Customer: Hello, I want to know my transfer limit. I just want to make sure this is handled correctly. Agent: I can check the account details.",Normal Support
+"Customer: I'm calling because I completed all verification requirements, but now there is a withdrawal I did not make. I have the account open in front of me. Agent: Let me review that with you.",Fraud Risk
+"Customer: I'm calling because I completed the verification rule already, but the repeated delay needs escalation. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hi, I was told this would already be fixed. I just want to make sure this is handled correctly. Agent: Let me review that with you.",Escalation Risk
+"Customer: Hi, I want to send this wire without the required documents. I would appreciate some guidance. Agent: I can check the account details.",Compliance Risk
+"Customer: Hello, I recognize the merchant name, but I did not make this particular purchase. I would appreciate some guidance. Agent: I can check the account details.",Fraud Risk
+Customer: I need help because the case has been open for weeks despite repeated follow-ups. I would appreciate some guidance. Agent: I can help route this request correctly.,Escalation Risk
+Customer: I'm calling because I want to send this wire without the required documents. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hi, I do not want to provide the requested ID. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hello, nothing appears stolen, but I want to send money for someone else without providing more information. I have the account open in front of me. Agent: I can check the account details.",Compliance Risk
+"Customer: Hello, these small charges do not belong to me. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I'm calling because I need to reset my online banking password. I want to understand what the next step should be. Agent: I can check the account details.,Normal Support
+Customer: I need help because I have not completed identity verification but want the restriction removed. I want to understand what the next step should be. Agent: I can help route this request correctly.,Compliance Risk
+Customer: I'm calling because I do not want to provide the requested ID. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Compliance Risk
+"Customer: Hello, I need a supervisor because previous agents did not fix this. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Escalation Risk
+Customer: I need help because I need help updating my mailing address. I want to understand what the next step should be. Agent: I can help route this request correctly.,Normal Support
+Customer: I'm calling because I submitted the documents twice and the case is still pending. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Escalation Risk
+"Customer: Hi, I was told this would already be fixed. I would appreciate some guidance. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hello, I never placed this online order. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+Customer: I'm calling because I never placed this online order. I would appreciate some guidance. Agent: Let me review that with you.,Fraud Risk
+"Customer: Hi, this cash withdrawal was not mine. I want to understand what the next step should be. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hi, I recognize the transfer and submitted the documents, but I need a supervisor because nobody has acted. I would appreciate some guidance. Agent: I can check the account details.",Escalation Risk
+Customer: I need help because I want to send this wire without the required documents. I noticed this while checking the app. Agent: I can check the account details.,Compliance Risk
+Customer: I need help because I was promised a callback but nobody contacted me. I would appreciate some guidance. Agent: Let me review that with you.,Escalation Risk
+Customer: I'm calling because I want to know when my debit card will arrive. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Normal Support
+"Customer: Hi, I want to use someone else's identification for this request. I have the account open in front of me. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hello, I was told this would already be fixed. I would appreciate some guidance. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hi, I want to use someone else's identification for this request. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I'm calling because the app asked me to verify my identity and I just need directions for doing it. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Normal Support
+"Customer: I need help because I am frustrated, but I still do not want to provide the requested documents. I have the account open in front of me. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hi, I was told this would already be fixed. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Escalation Risk
+"Customer: Hello, I want to know my transfer limit. I noticed this while checking the app. Agent: Let me review that with you.",Normal Support
+Customer: I'm calling because I keep getting transferred without a solution. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: Hello, I called before about another issue, but today I found a transaction I did not make. I noticed this while checking the app. Agent: Let me review that with you.",Fraud Risk
+Customer: I'm calling because I want to update my paperless statement settings. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Normal Support
+Customer: I need help because I want to download an older statement. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Normal Support
+"Customer: Hi, this is my fourth call and the issue is still unresolved. I would appreciate some guidance. Agent: I can check the account details.",Escalation Risk
+"Customer: Hi, the case has been open for weeks despite repeated follow-ups. I have the account open in front of me. Agent: I can check the account details.",Escalation Risk
+Customer: I'm calling because I do not want to provide the requested ID. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Compliance Risk
+Customer: I need help because I want to download an older statement. I want to understand what the next step should be. Agent: I can help route this request correctly.,Normal Support
+Customer: I'm calling because I have not completed identity verification but want the restriction removed. I just want to make sure this is handled correctly. Agent: Let me review that with you.,Compliance Risk
+Customer: I need help because I was promised a callback but nobody contacted me. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.,Escalation Risk
+Customer: I need help because I want to download an older statement. I have the account open in front of me. Agent: Let me review that with you.,Normal Support
+"Customer: Hello, I called before about another issue, but today I found a transaction I did not make. I want to understand what the next step should be. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hello, I did not authorize this transfer. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Fraud Risk
+Customer: I need help because I did not authorize this transfer. I have the account open in front of me. Agent: Let me determine the appropriate next step.,Fraud Risk
+"Customer: I need help because I recognize the merchant name, but I did not make this particular purchase. I noticed this while checking the app. Agent: Let me review that with you.",Fraud Risk
+Customer: I need help because I need a supervisor because previous agents did not fix this. I want to understand what the next step should be. Agent: I can check the account details.,Escalation Risk
+"Customer: Hi, I want to bypass the identity verification. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Compliance Risk
+Customer: I need help because I want to know when my debit card will arrive. I noticed this while checking the app. Agent: Let me determine the appropriate next step.,Normal Support
+Customer: I'm calling because I want to know when my debit card will arrive. I just want to make sure this is handled correctly. Agent: Let me determine the appropriate next step.,Normal Support
+Customer: I'm calling because I want an explanation of this monthly service fee. I have the account open in front of me. Agent: Let me review that with you.,Normal Support
+"Customer: Hi, I need to reset my online banking password. I would appreciate some guidance. Agent: Let me determine the appropriate next step.",Normal Support
+Customer: I'm calling because I never placed this online order. I would appreciate some guidance. Agent: I can check the account details.,Fraud Risk
+"Customer: Hello, these small charges do not belong to me. I noticed this while checking the app. Agent: Let me determine the appropriate next step.",Fraud Risk
+Customer: I'm calling because this is my fourth call and the issue is still unresolved. I want to understand what the next step should be. Agent: Let me determine the appropriate next step.,Escalation Risk
+"Customer: Hello, I completed verification and a transfer earlier this week and only want to know when my card arrives. I would appreciate some guidance. Agent: I can check the account details.",Normal Support
+"Customer: Hello, I do not recognize this card purchase. I would appreciate some guidance. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: I'm calling because the refund is pending, but I only want to know the normal processing time. I just want to make sure this is handled correctly. Agent: I can check the account details.",Normal Support
+"Customer: Hello, I need someone senior to take over this unresolved case. I have the account open in front of me. Agent: I can check the account details.",Escalation Risk
+"Customer: Hello, someone used my card without my permission. I have the account open in front of me. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: Hi, I keep getting transferred without a solution. I want to understand what the next step should be. Agent: I can check the account details.",Escalation Risk
+"Customer: Hi, I need help updating my mailing address. I would appreciate some guidance. Agent: Let me review that with you.",Normal Support
+"Customer: Hello, I have not completed identity verification but want the restriction removed. I want to understand what the next step should be. Agent: Let me review that with you.",Compliance Risk
+"Customer: Hello, I want to download an older statement. I want to understand what the next step should be. Agent: Let me review that with you.",Normal Support
+"Customer: Hello, I was not in the city where this purchase happened. I want to understand what the next step should be. Agent: I can help route this request correctly.",Fraud Risk
+"Customer: I'm calling because nothing appears stolen, but I want to send money for someone else without providing more information. I just want to make sure this is handled correctly. Agent: I can help route this request correctly.",Compliance Risk
+"Customer: Hello, I received the replacement card, but after several calls the account is still locked. I have the account open in front of me. Agent: Let me review that with you.",Escalation Risk
+Customer: I need help because I want to update my paperless statement settings. I would appreciate some guidance. Agent: I can help route this request correctly.,Normal Support
+"Customer: Hi, I am moving money for another person and do not want to explain it. I have the account open in front of me. Agent: Let me determine the appropriate next step.",Compliance Risk
+"Customer: Hi, I am moving money for another person and do not want to explain it. I have the account open in front of me. Agent: I can help route this request correctly.",Compliance Risk
